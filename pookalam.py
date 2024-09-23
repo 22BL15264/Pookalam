@@ -2,7 +2,7 @@ import turtle
 import math
 
 screen = turtle.Screen()
-screen.bgcolor("green")
+screen.bgcolor("white")
 t = turtle.Turtle()
 t.speed(0)
 
